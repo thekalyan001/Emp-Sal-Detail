@@ -1,0 +1,7 @@
+npm install papaparse  (parse csv to json)
+
+npm install @mui/material@latest @mui/x-data-grid@latest @emotion/react@latest @emotion/styled@latest
+
+npm i react-router-dom
+
+npm run dev.
